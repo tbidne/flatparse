@@ -3,6 +3,7 @@ on:
   push:
     branches:
       - main
+      - tasty-bench-ci
   pull_request:
     types:
       - opened
